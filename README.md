@@ -1,0 +1,3 @@
+- I have designed the famous 2048 with the help of Youtube.
+- It contains current score as well as the high score.
+- It also has different colours for different numbered tiles as in the original 2048 game.
